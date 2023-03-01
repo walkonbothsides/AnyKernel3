@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=KernelSU by SnowWolf725 @ xda-developers
+kernel.string=OnePlus 7 KernelSU by SnowWolf725 @ xda-developers
 do.devicecheck=1
 device.name1=OnePlus7
 device.name2=OnePlus7Pro
