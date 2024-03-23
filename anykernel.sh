@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=KernelSU by SnowWolf725 @ xda-developers
+kernel.string=KernelSU for OnePlus 7 by SnowWolf725 @ xda-developers
 do.devicecheck=1
 do.modules=0
 do.systemless=1
