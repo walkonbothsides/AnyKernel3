@@ -14,6 +14,14 @@ device.name1=OnePlus7
 device.name2=OnePlus7Pro
 device.name3=OnePlus7T
 device.name4=OnePlus7TPro
+device.name5=guacamoleb
+device.name6=guacamole
+device.name7=hotdogb
+device.name8=hotdog
+device.name9=OnePlus7TProNR
+device.name10=hotdogg
+device.name11=guacamoles
+device.name12=OnePlus7ProNR
 supported.versions=
 supported.patchlevels=
 '; } # end properties
